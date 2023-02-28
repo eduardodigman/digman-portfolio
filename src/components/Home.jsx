@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImage from "../assets/jessie.png";
+import HeroImage from "../assets/digman.png";
 
 
 const Home = () => {
@@ -11,10 +11,10 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-black">
-           Hi! I'm Jessie A. Consigna
+           Hi! I'm Eduardo A. Digman
           </h2>
           <p className="text-black-500 py-4 max-w-md">
-          A Computer Science Student of North Eastern Mindanao State University.
+         And this is my personal portfolio.
           </p>
 
           
